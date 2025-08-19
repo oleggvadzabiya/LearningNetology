@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 4aecb52b7828c5a4bb666e0681b231af
+  productGUID: e6070be6ce387fd458858d6ad25c1b5e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: LearningNetology
+  productName: GvadzabiyaO_GUN-39
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -161,7 +161,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Standalone: com.DefaultCompany.LearningNetology
+    Standalone: com.DefaultCompany.GvadzabiyaO-GUN-39
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -678,14 +678,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: LearningNetology
+  metroPackageName: GvadzabiyaO_GUN-39
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: LearningNetology
+  metroApplicationDescription: GvadzabiyaO_GUN-39
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -755,10 +755,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: b8e804f0-e1a8-45ca-af5b-785a05c01613
+  cloudProjectId: 53670041-8bb4-4e68-b949-ce2468f88beb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: LearningNetology 2025-08-19_21-41-37
+  projectName: GvadzabiyaO_GUN-39 2025-07-29_23-06-53
   organizationId: odecode
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
